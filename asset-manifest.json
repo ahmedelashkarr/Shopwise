@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//ahmedelashkarr.github.io/Shopwise/static/css/main.ac5a7684.css",
+    "main.js": "/https//ahmedelashkarr.github.io/Shopwise/static/js/main.4291f132.js",
+    "static/js/488.9c92ff38.chunk.js": "/https//ahmedelashkarr.github.io/Shopwise/static/js/488.9c92ff38.chunk.js",
+    "static/media/Simple-Line-Icons.svg": "/https//ahmedelashkarr.github.io/Shopwise/static/media/Simple-Line-Icons.020f280b83f405cb4ac1.svg",
+    "static/media/shop_banner1.jpg": "/https//ahmedelashkarr.github.io/Shopwise/static/media/shop_banner1.97e52f485df14e1cb53e.jpg",
+    "static/media/furniture_banner2.jpg": "/https//ahmedelashkarr.github.io/Shopwise/static/media/furniture_banner2.309b8ea3533a3034e352.jpg",
+    "static/media/menu_banner11.jpg": "/https//ahmedelashkarr.github.io/Shopwise/static/media/menu_banner11.086459ca64f3efb858cd.jpg",
+    "static/media/menu_banner33.jpg": "/https//ahmedelashkarr.github.io/Shopwise/static/media/menu_banner33.40fef4f42ca54caeb74f.jpg",
+    "static/media/furniture_banner1.jpg": "/https//ahmedelashkarr.github.io/Shopwise/static/media/furniture_banner1.900934871828d756b909.jpg",
+    "static/media/menu_banner22.jpg": "/https//ahmedelashkarr.github.io/Shopwise/static/media/menu_banner22.21c6b00d7309c3807d75.jpg",
+    "index.html": "/https//ahmedelashkarr.github.io/Shopwise/index.html",
+    "main.ac5a7684.css.map": "/https//ahmedelashkarr.github.io/Shopwise/static/css/main.ac5a7684.css.map",
+    "main.4291f132.js.map": "/https//ahmedelashkarr.github.io/Shopwise/static/js/main.4291f132.js.map",
+    "488.9c92ff38.chunk.js.map": "/https//ahmedelashkarr.github.io/Shopwise/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5a7684.css",
+    "static/js/main.4291f132.js"
+  ]
+}
